@@ -1,0 +1,19 @@
+{
+  "name": "daq-server",
+  "version": "0.0.0",
+  "description": "The server-side of the MIT FSAE DAQ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@jcarrus.com:daq-server.git"
+  },
+  "author": "Justin Carrus",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.13.4",
+    "mongoose": "~4.3.7"
+  }
+}
